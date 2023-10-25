@@ -1,5 +1,5 @@
 # Todolist
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaBrunoS/todolist_rockett/blob/master/LICENSE) 
 
 # Sobre o projeto
 O Todolist foi um projeto criado durante um curso gratuito oferecido pela plataforma RocketSeat, 
